@@ -1,9 +1,11 @@
 ---
 name: writing-guidelines
-description: Review docs/prose for Writing Guidelines compliance. Use when asked to "review my docs", "check writing style", "audit prose", "review docs voice and tone", or "check this page against the writing handbook".
+description: Review docs/prose for Writing Guidelines compliance. Use when asked
+  to "review my docs", "check writing style", "audit prose", "review docs voice
+  and tone", or "check this page against the writing handbook".
 metadata:
   author: vercel
-  version: "1.0.0"
+  version: 1.0.1
   argument-hint: <file-or-pattern>
 ---
 
@@ -37,3 +39,4 @@ When a user provides a file or pattern argument:
 4. Output findings using the format specified in the guidelines
 
 If no files specified, ask the user which files to review.
+DRIFT EDIT
